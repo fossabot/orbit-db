@@ -5,6 +5,7 @@
 </p>
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io) [![Discord](https://img.shields.io/discord/475789330380488707?color=blueviolet&label=discord)](https://discord.gg/v3RNE3M) [![CircleCI Status](https://circleci.com/gh/orbitdb/orbit-db.svg?style=shield)](https://circleci.com/gh/orbitdb/orbit-db) [![npm version](https://badge.fury.io/js/orbit-db.svg)](https://www.npmjs.com/package/orbit-db) [![node](https://img.shields.io/node/v/orbit-db.svg)](https://www.npmjs.com/package/orbit-db)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famithkk%2Forbit-db.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Famithkk%2Forbit-db?ref=badge_shield)
 
 OrbitDB is a **serverless, distributed, peer-to-peer database**. OrbitDB uses [IPFS](https://ipfs.io) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. It's an eventually consistent database that uses [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 
@@ -308,3 +309,6 @@ If you want to sponsor developers to work on OrbitDB, please reach out to [@haad
 ## License
 
 [MIT](LICENSE) © 2015-2019 Protocol Labs Inc., Haja Networks Oy
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famithkk%2Forbit-db.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Famithkk%2Forbit-db?ref=badge_large)
